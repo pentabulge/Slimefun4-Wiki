@@ -1,3 +1,5 @@
+![Apple Juice](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-apple-juice.gif)
+
 Juices are [Food](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Food) items added by Slimefun.<br>
 You can obtain Juices by processing the corresponding Fruit/Vegetable in a [Juicer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juicer).
 

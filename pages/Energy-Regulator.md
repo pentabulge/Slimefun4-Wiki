@@ -1,3 +1,5 @@
+![Energy Regulator](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-energy-regulator.png)
+
 An Energy Regulator is the core part of an [energy network](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Machines) which allows energy to be transferred.<br>
 It is essential to a working energy network.
 

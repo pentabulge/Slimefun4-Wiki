@@ -1,3 +1,5 @@
+![Iron Dust](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-iron-dust.png)
+
 Iron Dust is one of the nine [dusts](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts) added in Slimefun.
 
 ## Obtaining

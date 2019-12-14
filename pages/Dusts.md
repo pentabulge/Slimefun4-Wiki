@@ -1,3 +1,5 @@
+![Dusts](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-dusts.gif)
+
 Slimefun adds the following 9 dusts as [resources](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Resources):
 * [Iron Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Iron-Dust)
 * [Gold Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Dust)

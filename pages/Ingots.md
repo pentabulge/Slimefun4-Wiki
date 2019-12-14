@@ -1,3 +1,5 @@
+![Ingots](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-ingots.gif)
+
 Slimefun introduces 25 new ingots, including 17 alloys. They are essential crafting [resources](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Resources).
 
 ## Metals

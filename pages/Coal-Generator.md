@@ -1,3 +1,5 @@
+![Coal Generator](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-nuclear-reactor.png)
+
 The Coal Generator is a type of [electricity](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Machines) generator. There are currently two tiers of coal generators.
 
 ## Obtaining

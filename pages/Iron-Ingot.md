@@ -1,3 +1,5 @@
+![Iron Ingot](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-iron-ingot.png)
+
 Iron Ingots are an item in vanilla Minecraft.<br>
 Although they are not added by Slimefun, the plugin offers an additional way to obtain them, and they are used in various new recipes.
 

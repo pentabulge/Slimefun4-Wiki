@@ -1,3 +1,5 @@
+![Solar Generator](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-solar-generator.png)
+
 The Solar Generator is a type of [electricity](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Machines) generator.<br>
 Unlike most other generators, it does not need to be fueled, requiring only direct sunlight. However, it does not generate power at night until you reach the last tier of solar generators.
 

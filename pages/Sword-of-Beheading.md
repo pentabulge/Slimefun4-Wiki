@@ -1,3 +1,5 @@
+![Sword of Beheading](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-sword-of-beheading.png)
+
 The Sword of Beheading is a [Weapon](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Weapons) added in Slimefun.<br>
 It is an Iron Sword enchanted with Beheading II, which has a chance to drop a Player's or Mob's head upon killing them.
 

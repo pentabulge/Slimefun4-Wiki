@@ -1,3 +1,5 @@
+![Sifted Ore](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-iron-dust.png)
+
 Sifted Ore is your most basic [resource](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Resources) that can be turned into various [dusts](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts).
 
 ## Acquiring Sifted Ore

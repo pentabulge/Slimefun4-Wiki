@@ -1,3 +1,5 @@
+![Bow](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-bow.png)
+
 Among the [Weapons](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Weapons) it adds, Slimefun introduces three new bows: the Soulbound Bow, the Explosive Bow, and the Icy Bow.<br>
 They each have special properties and may be enchanted like any other Bow.
 

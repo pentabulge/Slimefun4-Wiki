@@ -1,3 +1,5 @@
+![Nether Gold Pan](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-gold-pan.png)
+
 The Nether Gold Pan is an item in the [Tools](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Tools) category.
 
 ## How to use the Nether Gold Pan

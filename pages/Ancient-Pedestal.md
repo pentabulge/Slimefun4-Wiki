@@ -1,3 +1,5 @@
+![Ancient Pedestal](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-ancient-pedestal.png)
+
 The Ancient Pedestal is a block in the [Magical Items](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Items) category. It is essential in building a working [Ancient Altar](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ancient-Altar).
 
 ## Obtaining

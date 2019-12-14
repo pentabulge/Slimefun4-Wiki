@@ -1,3 +1,5 @@
+![Gold Ingot](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-gold-ingot.png)
+
 Slimefun adds 11 new Gold Ingots to the game.<br>
 They are differentiated by their purity (measured in "carats"), with the lowest purity being 4 and the highest being 24.
 

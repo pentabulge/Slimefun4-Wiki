@@ -1,3 +1,5 @@
+![Broken Spawner](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-spawner.png)
+
 Broken Spawners are an item in the [Magical Items](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Items) category.<br>
 As the name implies, they do not function in this state.
 
